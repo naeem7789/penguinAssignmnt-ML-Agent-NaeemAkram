@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Penguin Assignment",
+"productVersion": "0.1",
+"dataUrl": "Webgl Penguin Assignment.data.unityweb",
+"wasmCodeUrl": "Webgl Penguin Assignment.wasm.code.unityweb",
+"wasmFrameworkUrl": "Webgl Penguin Assignment.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
